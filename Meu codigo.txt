@@ -1,3 +1,10 @@
 Olá Mundo!
 
 Nova linha teste
+
+Tarefa a ser feita:
+ 
+1. Um repositório público de exemplo no github (estudo-git);
+2. Pelo menos 3 commits no repositório;
+3. Pelo menos 2 branchs no repositório;
+4. Arquivo .gitignore no repositório.
